@@ -14,8 +14,8 @@ const Feature = () => {
           <SectionHeader
             headerInfo={{
               title: "FITUR LABORATORIUM",
-              subtitle: "Layanan dan Fasilitas Laboratorium Sistem Tenaga Listrik",
-              description: `Laboratorium Sistem Tenaga Listrik menyediakan layanan praktikum dan fasilitas unggulan untuk mendukung pembelajaran dan penelitian di bidang sistem tenaga listrik.`,
+              subtitle: "Layanan dan Fasilitas Laboratorium Teknik Tenaga Listrik",
+              description: `Laboratorium Teknik Tenaga Listrik menyediakan layanan praktikum dan fasilitas unggulan untuk mendukung pembelajaran dan penelitian di bidang Teknik Tenaga Listrik.`,
             }}
           />
           {/* <!-- Judul Seksi Selesai --> */}

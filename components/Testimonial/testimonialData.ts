@@ -22,7 +22,7 @@ export const testimonialData: Testimonial[] = [
   {
     id: 1,
     name: "Ir. Lukman Subekti, MT., IPM",
-    designation: "Dosen Teknik Sipil",
+    designation: "Dosen Teknologi Rekayasa Elektro",
     image: lukman,
     content:
       "Laboratorium di Universitas Gadjah Mada memiliki fasilitas yang sangat mendukung untuk penelitian dan pembelajaran. Kolaborasi antar disiplin ilmu juga sangat difasilitasi.",
@@ -30,7 +30,7 @@ export const testimonialData: Testimonial[] = [
   {
     id: 2,
     name: "Ir. Ma'un Budiyanto, S.T., M.T., IPU",
-    designation: "Dosen Teknik Mesin",
+    designation: "Dosen Teknologi Rekayasa Elektro",
     image: maun,
     content:
       "UGM memberikan pengalaman luar biasa melalui laboratoriumnya yang lengkap. Banyak mahasiswa dapat menghasilkan penelitian berkualitas internasional.",
@@ -38,7 +38,7 @@ export const testimonialData: Testimonial[] = [
   {
     id: 3,
     name: "Ir. Muhammad Arrofiq, S.T., M.T. Ph.D., IPM",
-    designation: "Dosen Teknik Elektro",
+    designation: "Dosen Teknologi Rekayasa Elektro",
     image: arrofiq,
     content:
       "Penggunaan laboratorium memungkinkan kami untuk mengeksplorasi inovasi teknologi baru yang bermanfaat bagi masyarakat luas.",
@@ -46,7 +46,7 @@ export const testimonialData: Testimonial[] = [
   {
     id: 4,
     name: "Ir. Budi Bayu Murti, S.T., M.T., IPM",
-    designation: "Dosen Teknik Industri",
+    designation: "Dosen Teknologi Rekayasa Elektro",
     image: bayu,
     content:
       "Fasilitas laboratorium UGM memberikan kontribusi signifikan terhadap pengembangan keterampilan mahasiswa di dunia kerja.",
@@ -54,7 +54,7 @@ export const testimonialData: Testimonial[] = [
   {
     id: 5,
     name: "Ir. Unan Yusmaniar Oktiawati, S.T., M.Sc., Ph.D.",
-    designation: "Dosen Teknik Kimia",
+    designation: "Dosen Teknologi Rekayasa Elektro",
     image: unan,
     content:
       "Kami merasa sangat terbantu dengan keberadaan laboratorium di UGM yang terus berkembang sesuai dengan perkembangan teknologi.",
@@ -62,7 +62,7 @@ export const testimonialData: Testimonial[] = [
   {
     id: 6,
     name: "Muhammad Rifqi Al Fauzan, S.Si., M.Sc.",
-    designation: "Dosen Matematika",
+    designation: "Dosen Teknologi Rekayasa Elektro",
     image: fauzan,
     content:
       "Mahasiswa dapat belajar dengan pendekatan praktis di laboratorium, yang sangat penting dalam memahami konsep-konsep teoretis.",
@@ -70,7 +70,7 @@ export const testimonialData: Testimonial[] = [
   {
     id: 7,
     name: "Dr. Fahmizal, S.T., M.Sc.",
-    designation: "Dosen Teknik Geologi",
+    designation: "Dosen Teknologi Rekayasa Elektro",
     image: fahmizal,
     content:
       "Laboratorium di UGM sangat mendukung penelitian geologi yang kompleks, baik dari sisi fasilitas maupun data yang tersedia.",
@@ -78,7 +78,7 @@ export const testimonialData: Testimonial[] = [
   {
     id: 8,
     name: "Dr. Fitri Puspasari, S.Si., M.Sc.",
-    designation: "Dosen Teknik Lingkungan",
+    designation: "Dosen Teknologi Rekayasa Elektro",
     image: fitri,
     content:
       "Fasilitas laboratorium yang memadai memberikan kesempatan mahasiswa untuk memahami dampak lingkungan secara nyata.",
@@ -86,7 +86,7 @@ export const testimonialData: Testimonial[] = [
   {
     id: 9,
     name: "Dr. Atikah Surriani, S.T., M.Eng.",
-    designation: "Dosen Teknik Arsitektur",
+    designation: "Dosen Teknologi Rekayasa Elektro",
     image: atikah,
     content:
       "Kolaborasi antar mahasiswa di laboratorium UGM memberikan nilai tambah dalam menciptakan desain arsitektur yang inovatif.",
@@ -94,7 +94,7 @@ export const testimonialData: Testimonial[] = [
   {
     id: 10,
     name: "Jimmy Trio Putra, S.T., M.Eng.",
-    designation: "Dosen Teknik Komputer",
+    designation: "Dosen Teknologi Rekayasa Elektro",
     image: jimmy,
     content:
       "UGM menawarkan akses laboratorium yang mendukung pengembangan software berbasis AI dan IoT, sesuatu yang sangat dibutuhkan saat ini.",
@@ -102,7 +102,7 @@ export const testimonialData: Testimonial[] = [
   {
     id: 11,
     name: "Dr. Eng. Tika Erna Putri, S.Si., M.Sc.",
-    designation: "Dosen Teknik Fisika",
+    designation: "Dosen Teknologi Rekayasa Elektro",
     image: tika,
     content:
       "Kami sangat mengapresiasi dukungan laboratorium UGM dalam menyediakan alat yang sesuai dengan penelitian fisika mutakhir.",
@@ -110,7 +110,7 @@ export const testimonialData: Testimonial[] = [
   {
     id: 12,
     name: "Adlan Bagus Pradana, S.T., M.Tech.",
-    designation: "Dosen Teknik Informatika",
+    designation: "Dosen Teknologi Rekayasa Elektro",
     image: adlan,
     content:
       "Laboratorium di UGM sangat memungkinkan mahasiswa dan dosen untuk menciptakan aplikasi berbasis teknologi terkini.",
@@ -118,7 +118,7 @@ export const testimonialData: Testimonial[] = [
   {
     id: 13,
     name: "Suhono, S.T., M.Eng.",
-    designation: "Dosen Teknik Material",
+    designation: "Dosen Teknologi Rekayasa Elektro",
     image: suhono,
     content:
       "Kemajuan teknologi material sangat didukung oleh laboratorium UGM, memberikan kami fasilitas untuk penelitian lebih lanjut.",
@@ -126,7 +126,7 @@ export const testimonialData: Testimonial[] = [
   {
     id: 14,
     name: "Candra Febri Nugraha, S.T., M.Eng.",
-    designation: "Dosen Teknik Pertambangan",
+    designation: "Dosen Teknologi Rekayasa Elektro",
     image: chandra,
     content:
       "Kami dapat memanfaatkan laboratorium UGM untuk penelitian eksplorasi sumber daya mineral yang efektif dan efisien.",
@@ -134,7 +134,7 @@ export const testimonialData: Testimonial[] = [
   {
     id: 15,
     name: "Ahmad Adhiim Muthahhari, S.T., M.Eng.",
-    designation: "Dosen Teknik Sipil",
+    designation: "Dosen Teknologi Rekayasa Elektro",
     image: adhiim,
     content:
       "Laboratorium UGM mempermudah mahasiswa dalam menyelesaikan proyek-proyek terkait infrastruktur dengan hasil yang sangat baik.",

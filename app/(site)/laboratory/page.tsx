@@ -3,8 +3,8 @@ import LaboratoryItem from "@/components/Laboratory/LaboratoryItem";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Laboratory - Laboratorium Sistem Tenaga Listrik",
-  description: "This is Laboratory page for Laboratorium Sistem Tenaga Listrik",
+  title: "Laboratory - Laboratorium Teknik Tenaga Listrik",
+  description: "This is Laboratory page for Laboratorium Teknik Tenaga Listrik",
   // other metadata
 };
 

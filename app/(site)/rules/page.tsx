@@ -2,8 +2,8 @@ import SidebarLink from "@/components/Rules/SidebarLink";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Rules - Laboratorium Sistem Tenaga Listrik",
-  description: "This is Docs page for Laboratorium Sistem Tenaga Listrik",
+  title: "Rules - Laboratorium Teknik Tenaga Listrik",
+  description: "This is Docs page for Laboratorium Teknik Tenaga Listrik",
   // other metadata
 };
 

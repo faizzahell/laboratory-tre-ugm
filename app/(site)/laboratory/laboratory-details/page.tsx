@@ -6,8 +6,8 @@ import Image from "next/image";
 import { lab } from "@/public/images/laboratory"
 
 export const metadata: Metadata = {
-  title: "Laboratory Details Page - Laboratorium Sistem Tenaga Listrik",
-  description: "This is Laboratory details page for Laboratorium Sistem Tenaga Listrik",
+  title: "Laboratory Details Page - Laboratorium Teknik Tenaga Listrik",
+  description: "This is Laboratory details page for Laboratorium Teknik Tenaga Listrik",
   // other metadata
 };
 

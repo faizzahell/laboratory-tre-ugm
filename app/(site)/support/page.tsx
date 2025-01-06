@@ -3,8 +3,8 @@ import Contact from "@/components/Contact";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Support - Laboratorium Sistem Tenaga Listrik",
-  description: "This is Support page for Laboratorium Sistem Tenaga Listrik",
+  title: "Support - Laboratorium Teknik Tenaga Listrik",
+  description: "This is Support page for Laboratorium Teknik Tenaga Listrik",
   // other metadata
 };
 

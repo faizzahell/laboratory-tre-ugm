@@ -2,8 +2,8 @@ import { Metadata } from "next";
 import Image from "next/image";
 
 export const metadata: Metadata = {
-  title: "Error Page - Laboratorium Sistem Tenaga Listrik",
-  description: "This is Error page for Laboratorium Sistem Tenaga Listrik",
+  title: "Error Page - Laboratorium Teknik Tenaga Listrik",
+  description: "This is Error page for Laboratorium Teknik Tenaga Listrik",
   // other metadata
 };
 

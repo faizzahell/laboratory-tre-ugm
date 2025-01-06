@@ -14,8 +14,8 @@ import Laboratory from "@/components/Laboratory";
 import Testimonial from "@/components/Testimonial";
 
 export const metadata: Metadata = {
-  title: "Laboratorium Sistem Tenaga Listrik",
-  description: "This is Home for Laboratorium Sistem Tenaga Listrik",
+  title: "Laboratorium Teknik Tenaga Listrik",
+  description: "This is Home for Laboratorium Teknik Tenaga Listrik",
   // other metadata
 };
 
